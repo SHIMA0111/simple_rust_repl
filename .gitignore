@@ -1,1 +1,4 @@
 /target
+.idea
+.rust_repl
+Cargo.lock
